@@ -1,0 +1,129 @@
+/* .cssReset !
+   License: none (public domain)!
+*/
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.inline {
+  display: inline; }
+
+.block {
+  display: block; }
+
+body {
+  font-family: 'Merriweather', serif; }
+
+nav {
+  background-color: #222; }
+
+header button {
+  margin-top: 10px; }
+
+.logo {
+  max-height: 75px;
+  max-width: 75px; }
+
+section {
+  box-shadow: 0 0 1 0;
+  line-height: 2em; }
+
+.ion-heart {
+  font-size: 200%;
+  color: red; }
+
+h1 {
+  font-size: 3em;
+  padding-bottom: 4%; }
+
+.nav__title {
+  font-size: 150%; }
+
+.sect__title {
+  padding: 2% 0; }
+
+.sect__mision--fondo {
+  background-image: url("../img/medicina.jpg"); }
+
+.sect__title--p {
+  font-weight: 300; }
+
+.sect__title--h3 {
+  font-weight: bold; }
+
+.sect__info {
+  padding: 40px 0;
+  line-height: 2em; }
+
+.main__fondo {
+  font-family: 'Playfair Display', serif;
+  background-image: url("../img/fondo-medico.png");
+  color: #fff;
+  box-sizing: border-box;
+  padding: 3%; }
+
+.main__art--h3 {
+  font-size: 200%; }
+
+.main__art--p {
+  font-size: 1.3em;
+  padding-bottom: 2%; }
+
+.main__row--title {
+  font-weight: bold;
+  font-size: 2em; }
+
+.span__contact {
+  font-style: italic; }
+
+a {
+  color: #222; }
+
+.color__h4-footer {
+  color: #222; }
+
+footer {
+  background-color: #222;
+  color: #fff; }
+
+footer h4 {
+  color: #fff;
+  font-size: 20px; }
+
+footer i {
+  color: #fff;
+  font-size: 20px; }
+
+footer ul {
+  margin-top: 1%; }
+
+.inline__foot {
+  display: inline;
+  padding-top: 2%;
+  padding: 1%; }
+
+.img__popup {
+  max-height: 100px;
+  max-width: 100px; }
+
+/*# sourceMappingURL=style.css.map */
